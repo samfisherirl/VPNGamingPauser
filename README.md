@@ -1,5 +1,5 @@
 # NordVPNgamingfix
-Fixes online gaming for NordVPN users. Games like Forza, PGA Tour hb-ne 3101, Battlefield 4, and more that don't allow VPNs. Split Tunnelling doens't work with the latest updates.  
+Fixes online gaming for NordVPN users and split tunneling shortfalls. Games like Forza, PGA Tour hb-ne 3101, Battlefield 4, and more that don't allow VPNs. Split Tunnelling doens't work with the latest updates.  
 
 This application is designed for Pausing NordVPN when playing specific online games that conflict with NORDVPN. It will then automatically restart your connection when the game closes.  This app automatically reconnects to the VPN upon the game closing. 
 
