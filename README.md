@@ -8,4 +8,4 @@ This application is designed for Pausing VPN when playing specific online games 
 - Click install frrom app or file
 - Dont move the main EXE from the folder or zip untill you  have installed
 - From there, you can move the main app exe anywhere and use. 
-- 
+- It's got it's own set of instructions and prompts. Follow the dialogues. 
